@@ -2,8 +2,8 @@
          [ Created By: Samuel Lewis ]
 
 
-        ------{| [INSTALLATION ] |}------
+    -----{| [INSTALLATION GUIDES ] |}------
     
-    {| [ WINDOWS ] |}:
-    1. Download the "JARVIS_SETUP.zip" file from here.
-    2.
+{| [ WINDOWS ] |}:
+1. Download the "JARVIS_SETUP.zip" file from here.
+2.
