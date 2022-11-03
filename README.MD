@@ -1,5 +1,5 @@
         -------{| [ JARVIS ] |}------- 
-   ---{| [ Created By: Samuel Lewis ] |}---
+         [ Created By: Samuel Lewis ]
 
 
         ------{| [INSTALLATION ] |}------
