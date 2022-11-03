@@ -1,0 +1,11 @@
+import pyttsx3
+import webbrowser
+import smtplib
+import random
+import speech_recognition as sr
+import wikipedia
+import datetime
+import wolframalpha
+import os
+import sys
+from datetime import datetime
